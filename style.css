@@ -1,0 +1,39 @@
+body{
+    background-color: lightblue; 
+}
+
+center{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100;
+    font-style: italic;
+    
+}
+
+
+.image{
+    width:120px;
+    height:120px;
+    object-fit: contain;
+}
+
+table, th, td{
+    border: 3px solid;
+    width: 37%;
+}
+
+.highlight #total{
+    font-size:100;
+    font-style:oblique; 
+    display: inline-block;
+    background-color: yellow;
+
+}
+
+
+
+.t{
+    width: 100%;
+    display: block; 
+    text-align: center;
+    line-height: 10px; 
+  }
